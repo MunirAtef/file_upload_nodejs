@@ -1,0 +1,14 @@
+
+.styled-text {
+    padding: 20px;
+    font-size: 3em;
+    background: linear-gradient(to right, chartreuse, red);
+    background-size: 200px;
+    background-clip: text;
+    color: transparent;
+    text-shadow: 2px 3px 2px rgba(0,0,0,0.4);
+
+    font-weight: bold;
+    -webkit-text-stroke: 1px white;
+    font-family: magneto, serif;
+}
